@@ -7,4 +7,5 @@
 
 * Overview: https://minitorch.github.io/module0.html
 
-"C:\Users\shars\OneDrive\Pictures\Screenshots\Screenshot 2024-04-03 232434.png"
+![Screenshot 2024-04-03 232434](https://github.com/minitorch/minitorch-module-0-HarshiniSangadi/assets/152834532/78d28e9c-ff33-45e8-b9b7-a470c9c0904a)
+
