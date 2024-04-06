@@ -7,5 +7,6 @@
 
 * Overview: https://minitorch.github.io/module0.html
 
-![Screenshot 2024-04-03 232434](https://github.com/minitorch/minitorch-module-0-HarshiniSangadi/assets/152834532/78d28e9c-ff33-45e8-b9b7-a470c9c0904a)
+<img width="960" alt="image" src="https://github.com/minitorch/minitorch-module-0-HarshiniSangadi/assets/152834532/cf91aa34-88a7-496e-bfb3-5c35385a41ae">
+
 
